@@ -1,1 +1,20 @@
-TESTIF
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <atom:link href="https://DesignThinkerer.github.io/tw-rss/xml.rss" rel="self" type="application/rss+xml" />
+  <title>My TiddlyWiki</title>
+  <link>https://http-demos.tiddlyhost.com/</link>
+  <description>a non-linear personal web notebook</description>
+  <language>en-GB</language>
+  <lastBuildDate>Fri, 21 Aug 2026 17:48:27 GMT</lastBuildDate>
+  <item>
+      <title>RSS article</title>
+      <description></description>
+      <category>feed</category>
+      <content:encoded><![CDATA[This is an article for the rss feed]]></content:encoded>
+	  <pubDate>Fri, 21 Aug 2026 17:10:55 GMT</pubDate>
+      <link>https://http-demos.tiddlyhost.com/#RSS%20article</link>
+      <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article</guid>
+   </item>
+</channel>
+</rss>
