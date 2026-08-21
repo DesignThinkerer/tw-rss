@@ -6,7 +6,7 @@
   <link>https://http-demos.tiddlyhost.com/</link>
   <description>a non-linear personal web notebook</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 21 Aug 2026 19:55:47 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 19:56:49 GMT</lastBuildDate>
   <item>
       <title>RSS article</title>
       <description></description>
@@ -34,6 +34,15 @@
       <link>https://http-demos.tiddlyhost.com/#RSS%20article%203</link>
       <author>Jojo</author>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%203</guid>
+</item><item>
+      <title>RSS article 4</title>
+      <description></description>
+      <category>feed</category>
+      <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
+	  <pubDate>Fri, 21 Aug 2026 19:56:40 GMT</pubDate>
+      <link>https://http-demos.tiddlyhost.com/#RSS%20article%204</link>
+      <author>Jojo</author>
+      <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%204</guid>
 </item>
 </channel>
 </rss>
