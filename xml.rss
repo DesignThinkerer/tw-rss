@@ -7,7 +7,7 @@
   <webMaster>theophile.dev</webMaster>
   <description>a non-linear personal web notebook</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 21 Aug 2026 20:01:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 20:02:53 GMT</lastBuildDate>
   <item>
       <title>RSS article</title>
       <description></description>
@@ -48,6 +48,22 @@
 	  <pubDate>Fri, 21 Aug 2026 19:58:07 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article%205</link>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%205</guid>
+</item><item>
+      <title>RSS article 6</title>
+      <description></description>
+      <category>feed</category>
+      <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
+	  <pubDate>Fri, 21 Aug 2026 20:01:32 GMT</pubDate>
+      <link>https://http-demos.tiddlyhost.com/#RSS%20article%206</link>
+      <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%206</guid>
+</item><item>
+      <title>RSS article 7</title>
+      <description></description>
+      <category>feed</category>
+      <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
+	  <pubDate>Fri, 21 Aug 2026 20:02:50 GMT</pubDate>
+      <link>https://http-demos.tiddlyhost.com/#RSS%20article%207</link>
+      <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%207</guid>
 </item>
 </channel>
 </rss>
