@@ -4,9 +4,10 @@
   <atom:link href="https://DesignThinkerer.github.io/tw-rss/xml.rss" rel="self" type="application/rss+xml" />
   <title>My TiddlyWiki</title>
   <link>https://http-demos.tiddlyhost.com/</link>
+  <webMaster>theophile.dev</webMaster>
   <description>a non-linear personal web notebook</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 21 Aug 2026 19:58:42 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 20:01:02 GMT</lastBuildDate>
   <item>
       <title>RSS article</title>
       <description></description>
@@ -14,7 +15,6 @@
       <content:encoded><![CDATA[<p>This is an article for the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://http-demos.tiddlyhost.com/#Send%20a%20rss%20feed%20to%20a%20github%20repo">rss feed</a></p><p>New line</p><ul><li>List item 1</li><li>List item 2</li></ul>]]></content:encoded>
 	  <pubDate>Fri, 21 Aug 2026 18:50:36 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article</link>
-      <author></author>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article</guid>
 </item><item>
       <title>RSS article 2</title>
@@ -23,7 +23,6 @@
       <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
 	  <pubDate>Fri, 21 Aug 2026 19:21:11 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article%202</link>
-      <author></author>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%202</guid>
 </item><item>
       <title>RSS article 3</title>
@@ -32,7 +31,6 @@
       <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
 	  <pubDate>Fri, 21 Aug 2026 19:46:32 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article%203</link>
-      <author></author>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%203</guid>
 </item><item>
       <title>RSS article 4</title>
@@ -41,7 +39,6 @@
       <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
 	  <pubDate>Fri, 21 Aug 2026 19:56:40 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article%204</link>
-      <author></author>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%204</guid>
 </item><item>
       <title>RSS article 5</title>
@@ -50,7 +47,6 @@
       <content:encoded><![CDATA[<p>Another one</p>]]></content:encoded>
 	  <pubDate>Fri, 21 Aug 2026 19:58:07 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article%205</link>
-      <author>theophile.dev</author>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article%205</guid>
 </item>
 </channel>
