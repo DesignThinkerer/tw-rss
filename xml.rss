@@ -6,13 +6,16 @@
   <link>https://http-demos.tiddlyhost.com/</link>
   <description>a non-linear personal web notebook</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 21 Aug 2026 17:56:12 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 18:20:33 GMT</lastBuildDate>
   <item>
       <title>RSS article</title>
       <description></description>
       <category>feed</category>
-      <content:encoded><![CDATA[This is an article for the rss feed]]></content:encoded>
-	  <pubDate>Fri, 21 Aug 2026 17:10:55 GMT</pubDate>
+      <content:encoded><![CDATA[This is an article for the rss feed
+
+* List item 1
+* List item 2]]></content:encoded>
+	  <pubDate>Fri, 21 Aug 2026 18:20:30 GMT</pubDate>
       <link>https://http-demos.tiddlyhost.com/#RSS%20article</link>
       <guid isPermaLink='true'>https://http-demos.tiddlyhost.com/#RSS%20article</guid>
    </item>
